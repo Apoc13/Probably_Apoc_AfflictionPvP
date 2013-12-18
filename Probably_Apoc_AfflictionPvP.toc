@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Probably - Apoc_AfflictionPvP
+## Notes: ProbablyEngine Custom Affliction Warlock
+## Dependencies: Probably
+
+rotation.lua
